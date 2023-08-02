@@ -6,10 +6,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 微信小程序配置文件
- * @author java1234_小锋
- * @site www.java1234.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-01-08 17:56
  */
 @Component
 @ConfigurationProperties(prefix = "weixin")

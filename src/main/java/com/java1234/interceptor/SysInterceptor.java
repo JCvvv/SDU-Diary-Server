@@ -11,9 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 鉴权拦截器
- * @author java1234_小锋 （公众号：java1234）
- * @site www.java1234.vip
- * @company 南通小锋网络科技有限公司
  */
 public class SysInterceptor implements HandlerInterceptor {
 
